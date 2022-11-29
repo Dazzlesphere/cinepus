@@ -13,7 +13,7 @@ function Header({ setQuery }) {
 
   return (
     <div className="header">
-        <div className="logo"><h1>TicTin</h1></div>
+        <div className="logo"><h1>CinePass</h1></div>
         <form className="search" onSubmit={handleSubmit}>
             <button type="submit" className="btn search"><i className="fa-solid fa-magnifying-glass" /></button>
             <input 

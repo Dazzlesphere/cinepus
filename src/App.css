@@ -50,5 +50,5 @@ h1, h2, h3, h4, h5, h6 { margin-bottom:1rem; line-height:1 }
 .filter-menu .title { padding:10px 20px; border-bottom:solid 1px #595f6a; font-weight:400; box-shadow:0 -2px 2px rgba(0,0,0,0.3) inset }
 .filter-menu ul { list-style:none; padding:10px 0 }
 .filter-menu li { padding:5px 20px; font-weight:300; font-size:0.9rem; color:#ccc; cursor:pointer }
-.filter-menu li:hover { background:#ab0a61 }
+.filter-menu li:hover { background:#202633 }
 .filter-menu li.active { color:#fff; background:#ab0a61 }
